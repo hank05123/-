@@ -30,6 +30,6 @@ plt.ylabel("股價")
 plt.legend(loc='best')
 plt.show()
 
-![GITHUB](https://upload.cc/i1/2020/12/24/hop2ty.png)
+[如下圖](https://upload.cc/i1/2020/12/24/hop2ty.png)
 
 ```
